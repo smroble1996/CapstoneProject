@@ -7,6 +7,7 @@ My project will consist of an application that can sort horror based movies into
 # User Stories
 As a user, you will be able to choose a subgenre of horror, and pick on a sliding scale which level of gore you are comfortable with (probably 0-5), and then a list of movies will be presented.
 Divide movies (I think I am probably just do 15-20 of my favorites) into subgenres
+List movies with their run time.
 Class each movie on the basis of gore. (These are all going to be arbitrary and based on my personal grade, but I’ll try to keep things objective)
 Build a sorter (based in react) that can decide movies based on a genre/ their horror rating
 

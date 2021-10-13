@@ -50,3 +50,7 @@ A Movie belongs to Subgenre:
 Gore belongs to a Movie:
 	
 	Rating
+
+![SPOOKY SORTER WIREFRAME](https://user-images.githubusercontent.com/85583385/137208059-6ab2d743-906d-44ad-827e-2d54f927fff9.PNG)
+
+

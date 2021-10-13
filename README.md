@@ -47,6 +47,7 @@ A Movie belongs to Subgenre:
 
 	id
 	Genre Name
+	Gore Rating
 Gore belongs to a Movie:
 	
 	Rating
